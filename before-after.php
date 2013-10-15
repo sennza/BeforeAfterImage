@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Cosmos Before/After Image Creator
+ * Plugin Name: Before/After Image Creator
  * Description: Adds an interface to create before/after images
- * Author: Sennza
+ * Author: Sennza Pty Ltd, Bronson Quick, Ryan McCue, Lachlan MacPherson
  * Author URI: http://www.sennza.com.au/
  * Version: 0.1
  */
